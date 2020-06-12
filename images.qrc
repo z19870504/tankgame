@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>enemy1.png</file>
+        <file>enemy2.png</file>
+        <file>enemy3.png</file>
+        <file>enemy4.png</file>
+        <file>home.png</file>
+        <file>player1.png</file>
+        <file>player2.png</file>
+        <file>player3.png</file>
+        <file>player4.png</file>
+        <file>key1.png</file>
+        <file>key2.png</file>
+        <file>wall1.png</file>
+        <file>wall2.png</file>
+        <file>wall3.png</file>
+        <file>water.png</file>
+        <file>forest.png</file>
+        <file>background.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>boom.png</file>
+    </qresource>
+</RCC>
